@@ -1,5 +1,5 @@
 # *waste*full
-Turn trash fields into energy storage
+Turn trash landfields into energy storage
 
 Wastefield: large unused spaces, close to the city.
 Energy storage needs: lots of space, be close to the city.
