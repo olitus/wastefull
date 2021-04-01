@@ -1,7 +1,7 @@
 # *WASTE*  FULL
 **Turn landfills into clean energy storage using gravity**
 
-![litter-12](https://user-images.githubusercontent.com/5354501/113362152-b41afe00-931b-11eb-83d6-961c7d5f908e.jpg)
+![litter-12](https://user-images.githubusercontent.com/5354501/113362195-d0b73600-931b-11eb-92fb-0ddc5534a5e5.png)
 
 ## Background & Description
 Landfills are large unused spaces, close to the city, that are filled with waste.
