@@ -1,14 +1,15 @@
 # *waste* full
-Turn trash landfields into energy storage
+**Turn landfills into clean energy banks**
 
-Wastefield: large unused spaces, close to the city.
-Energy storage needs: lots of space, be close to the city.
-We can make wastefileds into batteries via cranes.
+## Background & Description
+Landfills are large unused spaces, close to the city, that are filled with waste.
+Gravity energy storage needs: lots of space, be close to the city.
+We can make andfills into energy banks using system of cranes.
 
 
-## Idea
-1. Create dense trash blocks (partially done)
-2. Use them with cranes to store and release energy
+## Process
+1. Create dense waste blocks.
+2. Pull waste blocks with cranes up and down to store and release gravitational energy.
 
 
 ## Data
@@ -19,16 +20,19 @@ We can make wastefileds into batteries via cranes.
 
 
 ## On each step
-#### Trash blocks
-- Already done, need to twick to make sure it is usefull.
-- https://www.google.com/search?q=trash+blocks&client=safari&rls=en&tbm=isch&sxsrf=ALeKk03dUk5PuuWfOOsEoyjC9d3CDY7d6A:1614068679113&source=lnms&sa=X&ved=0ahUKEwioyYuyyv_uAhXCbc0KHeYUBRAQ_AUIrQMoAQ&biw=2782&bih=1495#imgrc=awECp_N7xKpfdM
-- https://www.byfusion.com
+### Trash blocks
+#### Examples
+- [Byfusion](https://www.byfusion.com) is making building blocks from plastic.
+
+#### ToDo
+- Maybe there is a way to make trash blocks out of average compressed trash.
+- Need more examples here...
 
 
-#### Crane storage
-##### Examples
+### Crane storage
+#### Examples
 - [Energy Vault](https://energyvault.com) is an example with concrete block
 - [Gravitricity](https://gravitricity.com/#about) another example from Scotland
 
-##### Potential
+#### Potential
 - [IEEE about gravity storage in 2021](https://spectrum.ieee.org/energy/batteries-storage/gravity-energy-storage-will-show-its-potential-in-2021)
