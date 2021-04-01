@@ -30,6 +30,9 @@ We can make landfills into energy banks using system of cranes.
 
 
 ### Crane storage
+#### Background
+- [Wikipedia on Gravity Batteries](https://en.wikipedia.org/wiki/Gravity_battery)
+
 #### Examples
 - [Energy Vault](https://energyvault.com) is an example with concrete block
 - [Gravitricity](https://gravitricity.com/#about) another example from Scotland
