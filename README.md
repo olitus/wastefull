@@ -1,5 +1,5 @@
 # *WASTE*  FULL
-**Turn landfills into clean energy storage solutions using gravity**
+**Turn landfills into clean energy storage using gravity**
 
 ## Background & Description
 Landfills are large unused spaces, close to the city, that are filled with waste.
