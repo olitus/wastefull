@@ -1,4 +1,4 @@
-# *waste* full
+# *WASTE* FULL
 **Turn landfills into clean energy storage solutions using gravity**
 
 ## Background & Description
