@@ -3,8 +3,8 @@
 
 ## Background & Description
 Landfills are large unused spaces, close to the city, that are filled with waste.
-Gravity energy storage needs: lots of space, be close to the city.
-We can make andfills into energy banks using system of cranes.
+Gravity energy storage needs lots of space, some type of heavy blocks, and to be close to the city.
+We can make landfills into energy banks using system of cranes.
 
 
 ## Process
