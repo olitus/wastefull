@@ -1,4 +1,4 @@
-# *waste* **full**
+# *waste* full
 Turn trash landfields into energy storage
 
 Wastefield: large unused spaces, close to the city.
