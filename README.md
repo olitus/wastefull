@@ -13,10 +13,11 @@ We can make landfills into energy banks using system of cranes.
 
 
 ## Data
-1. The total generation of municipal solid waste (MSW) in 2018 was **292.4 million short tons**
-2. The average landfill size was **600 acres**
-3. The U.S. has **3,091 active** landfills and over **10,000 old** municipal landfills, according to the Environmental Protection Agency.
-4. The average density of MSW is **311.73 kg/m3**
+1. 35-metric-ton brick 
+2. The total generation of municipal solid waste (MSW) in 2018 was **292.4 million short tons**
+3. The average landfill size was **600 acres**
+4. The U.S. has **3,091 active** landfills and over **10,000 old** municipal landfills, according to the Environmental Protection Agency.
+5. The average density of MSW is **311.73 kg/m3**
 
 
 ## On each step
@@ -39,3 +40,4 @@ We can make landfills into energy banks using system of cranes.
 
 #### Potential
 - [IEEE about gravity storage in 2021](https://spectrum.ieee.org/energy/batteries-storage/gravity-energy-storage-will-show-its-potential-in-2021)
+- [Power Technology about gravity storage](https://www.power-technology.com/features/gravity-based-storage/)
