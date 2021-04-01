@@ -26,4 +26,9 @@ We can make wastefileds into batteries via cranes.
 
 
 #### Crane storage
-- Energy Valult is doing this with concrete block: https://energyvault.com
+##### Examples
+- [Energy Vault](https://energyvault.com) is an example with concrete block
+- [Gravitricity](https://gravitricity.com/#about) another example from Scotland
+
+##### Potential
+- [IEEE about gravity storage in 2021](https://spectrum.ieee.org/energy/batteries-storage/gravity-energy-storage-will-show-its-potential-in-2021)
