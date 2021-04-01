@@ -10,7 +10,7 @@ We can make landfills into energy banks using system of cranes.
 
 
 ## Process
-1. Create dense waste blocks.
+1. Create dense waste blocks or trash containers
 2. Pull waste blocks with cranes up and down to store and release gravitational energy.
 
 
